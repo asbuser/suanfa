@@ -8,5 +8,6 @@ public class Test {
         Maopao.sort(a);
         System.out.println(Arrays.toString(a));
         System.out.println("git修改");
+        System.out.println("git测试合并");
     }
 }
