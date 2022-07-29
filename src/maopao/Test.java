@@ -12,5 +12,6 @@ public class Test {
         System.out.println("git测试合并冲突master");
         System.out.println("git测试合并冲突");
         System.out.println("git测试push");
+        System.out.println("git测试pull");
     }
 }
