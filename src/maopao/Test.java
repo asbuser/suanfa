@@ -10,5 +10,6 @@ public class Test {
         System.out.println("git修改");
         System.out.println("git测试合并");
         System.out.println("git测试合并冲突master");
+        System.out.println("git测试合并冲突");
     }
 }
