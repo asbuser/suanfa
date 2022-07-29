@@ -9,5 +9,6 @@ public class Test {
         System.out.println(Arrays.toString(a));
         System.out.println("git修改");
         System.out.println("git测试合并");
+        System.out.println("git测试合并冲突master");
     }
 }
